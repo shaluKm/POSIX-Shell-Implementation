@@ -1,4 +1,4 @@
-# AOS Assignment 2 - POSIX Shell Implementation
+# POSIX Shell Implementation
 
 ## How to run the program?
 - `g++ main.cpp` => `a.out`
